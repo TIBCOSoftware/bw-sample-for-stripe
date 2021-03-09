@@ -1,5 +1,6 @@
 # TIBCO® BusinessWorks Enterprise sample
 This repository contains a sample projects to get started with TIBCO® BusinessWorks Enterprise and TIBCO Cloud Integration. To download the sample and jump start your development simply clone the repository and open it as a project in TIBCO Business Studio.
+
 Note: Authentication values such as tokens and usernames/passwords are dummy values and will need to be updated for the sample to deploy properly.
 
 ## Questions?
